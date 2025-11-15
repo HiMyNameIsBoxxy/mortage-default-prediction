@@ -7,6 +7,8 @@ Model performance is evaluated using industry-standard metrics, including **accu
 ### Notebook
 You can view the full notebook here:  
 
-[mortgage_default_prediction.ipynb](mortgage_default_prediction.ipynb)
+[mortgage-default-prediction.ipynb](mortgage-default-prediction.ipynb)
+
+
 
 
